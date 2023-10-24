@@ -1,0 +1,11 @@
+<coche>
+  <conductor>
+     <nombre>Ramon Fernandez</nombre>
+     <email>correo@correo</email>
+  </conductor>
+  <caracteristica>
+     <motor>65cv</motor>
+     <color>blanco</color>
+     <modelo>deportivo</modelo>
+  </caracteristica>
+</coche>
